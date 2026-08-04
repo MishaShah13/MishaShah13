@@ -1,6 +1,6 @@
 # Hi, I'm Syeda Misha Shah 👋
 
-### Software Engineering Student · Django Developer · AI Enthusiast
+### Software Engineering Student · Django Developer · UI/UX Designer
 
 I'm a Software Engineering student at the **University of Management and Technology (UMT), Lahore**, focused on building intelligent, user-facing web applications — turning ideas into working software through clean code and modern tools.
 
