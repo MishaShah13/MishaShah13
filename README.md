@@ -95,17 +95,6 @@ My goal is to build scalable, useful software while continuously improving my en
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MishaShah13&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishaShah13&layout=compact&theme=tokyonight" />
-
-</p>
-
----
 
 ## 📫 Connect With Me
 
