@@ -98,17 +98,17 @@ My goal is to build scalable, useful software while continuously improving my en
 
 ## 📫 Connect With Me
 
-**GitHub:**  
-https://github.com/MishaShah13
-
-**LinkedIn:**  
-https://www.linkedin.com/in/syeda-misha-shah-b02471377/
-
-**Portfolio:**  
-https://mishashah-portfolio.vercel.app/
-
----
-
+<p>
+  <a href="https://www.linkedin.com/in/syeda-misha-shah-b02471377/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mishashah2003@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MishaShah13">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ⭐ Thanks for stopping by — always learning, building, and experimenting with something new.
 
 ### 💡 Build. Learn. Experiment. Repeat.
