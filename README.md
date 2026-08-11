@@ -54,12 +54,6 @@ I enjoy working across the stack — from designing interactive user interfaces 
 
 ---
 
-<div align="center">
-
-### ✨ Building ideas into working software.
-
-</div>
----
 
 ## 🛠️ Tech Stack
 
