@@ -10,32 +10,55 @@ I enjoy working across the stack — from designing interactive user interfaces 
 
 ---
 
-## 🚀 What I'm Building
+# 🚀 What I'm Building
 
-### ⚡ [DevFlow AI](https://github.com/MishaShah13/DevFlow-AI) — AI-Powered Project Management Platform
+### ⚡ 01 · [DevFlow AI](https://github.com/MishaShah13/DevFlow-AI)
+**AI-Powered Project Management Platform**
 
-An AI-powered project management platform designed for software teams to plan, manage, collaborate, and ship faster. It combines AI task generation, real-time Kanban boards, team collaboration, analytics, GitHub integration, and real-time notifications.
+> An AI-powered workspace for software teams to **plan, manage, collaborate, and ship faster** — combining intelligent task generation, real-time Kanban boards, team collaboration, analytics, GitHub integration, and live notifications.
 
-`React` `TypeScript` `Node.js` `Express` `MongoDB` `Socket.io` `OpenRouter`
+**Built with:**  
+`React` · `TypeScript` · `Node.js` · `Express` · `MongoDB` · `Socket.io` · `OpenRouter`
 
-### 🤖 [InterviewAI](https://github.com/MishaShah13/InterviewAI) — AI-Powered Interview Preparation Platform
+---
 
-An AI-powered interview preparation platform that analyzes resumes, generates personalized interview questions, evaluates answers, and tracks interview performance through an interactive dashboard.
+### 🤖 02 · [InterviewAI](https://github.com/MishaShah13/InterviewAI)
+**AI-Powered Interview Preparation Platform**
 
-`React` `Django` `Django REST Framework` `Material UI` `PostgreSQL` `Google Gemini` `JWT`
+> A full-stack platform that helps users **analyze resumes, generate personalized interview questions, evaluate answers, and track interview performance** through an interactive dashboard.
 
-### 😷 [Real-Time Face Mask Detection](https://github.com/MishaShah13) — Computer Vision System
+**Built with:**  
+`React` · `Django` · `Django REST Framework` · `Material UI` · `PostgreSQL` · `Google Gemini` · `JWT`
 
-A real-time computer vision application that detects faces from a live webcam feed and classifies them as **Mask / No Mask** using a two-stage detection and classification pipeline. Achieved **98% validation accuracy** using transfer learning.
+---
 
-`Python` `TensorFlow/Keras` `OpenCV` `MobileNetV2` `Flask` `pytest`
+### 😷 03 · [Real-Time Face Mask Detection](https://github.com/MishaShah13)
+**Computer Vision & Deep Learning System**
 
-### 🏠 [Asmaan.com](https://github.com/MishaShah13) — AI-Powered Real Estate Marketplace
+> A real-time computer vision application that detects faces from a live webcam feed and classifies them as **Mask / No Mask** using a two-stage detection and classification pipeline.
 
-A real estate platform focused on satellite-based map browsing, location-aware property visualization, and intelligent property discovery, built as a Final Year Project.
+**98% validation accuracy** using transfer learning with MobileNetV2.
 
-`Django` `React` `PostgreSQL/PostGIS` `Mapbox GL JS` `XGBoost`
+**Built with:**  
+`Python` · `TensorFlow/Keras` · `OpenCV` · `MobileNetV2` · `Flask` · `pytest`
 
+---
+
+### 🏠 04 · [Asmaan.com](https://github.com/MishaShah13)
+**AI-Powered Real Estate Marketplace**
+
+> A real estate platform focused on **satellite-based map browsing, location-aware property visualization, and intelligent property discovery**, developed as a Final Year Project.
+
+**Built with:**  
+`Django` · `React` · `PostgreSQL/PostGIS` · `Mapbox GL JS` · `XGBoost`
+
+---
+
+<div align="center">
+
+### ✨ Building ideas into working software.
+
+</div>
 ---
 
 ## 🛠️ Tech Stack
