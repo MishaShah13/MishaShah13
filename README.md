@@ -117,7 +117,14 @@ A real estate platform focused on satellite-based map browsing, location-aware p
 
 ## 📚 Currently Learning
 
-`Advanced React` `Node.js` `Next.js` `TypeScript` `Machine Learning` `System Design` `Cloud Deployment` `AI Integration`
+![Advanced React](https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge)
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-8E44AD?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-6A5ACD?style=for-the-badge)
+![Cloud Deployment](https://img.shields.io/badge/Cloud_Deployment-4285F4?style=for-the-badge)
 
 ---
 
